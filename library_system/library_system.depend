@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1614607196 source:d:\c++ projects\library system\library_system\main.cpp
+	<iostream>
+	"Library_System.h"
+
+1614607196 d:\c++ projects\library system\library_system\library_system.h
+	<bits/stdc++.h>
+
+1614607132 source:d:\c++ projects\library system\library_system\library_sysrtem_.cpp
+	"Library_System.h"
+	<bits/stdc++.h>
+
