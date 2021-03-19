@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1616183860 source:e:\ecpc\booking\main.cpp
+	<iostream>
+	"customer.h"
+	"system.h"
+
+1616159168 source:e:\ecpc\booking\users.cpp
+	"users.h"
+	<bits/stdc++.h>
+
+1616156564 e:\ecpc\booking\users.h
+	<bits/stdc++.h>
+
+1616183840 source:e:\ecpc\booking\customer.cpp
+	"customer.h"
+	"session.h"
+
+1616183030 e:\ecpc\booking\customer.h
+	"Users.h"
+	"session.h"
+
+1616157866 e:\ecpc\booking\system.h
+	"customer.h"
+
+1616183486 e:\ecpc\booking\session.h
+
